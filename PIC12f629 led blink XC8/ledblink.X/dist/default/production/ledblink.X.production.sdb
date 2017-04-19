@@ -11,7 +11,7 @@
 [v _eecpymem eecpymem `(v  1 e 0 0 ]
 "24
 [v _memcpyee memcpyee `(v  1 e 0 0 ]
-"6 G:\Working\Jaswanth\PIC12f629 led XC8\ledblink.X\src/main.c
+"6 C:\Users\Krishna\led-xc8\GPIO-on-off-xc8\PIC12f629 led blink XC8\ledblink.X\src/main.c
 [v _main main `(v  1 e 0 0 ]
 "212 C:\Program Files\Microchip\xc8\v1.34\include\pic12f629.h
 [v _GPIO GPIO `VEuc  1 e 1 @5 ]
@@ -21,7 +21,7 @@
 [v _GPIO2 GPIO2 `VEb  1 e 0 @42 ]
 "1325
 [v _GPIO4 GPIO4 `VEb  1 e 0 @44 ]
-"6 G:\Working\Jaswanth\PIC12f629 led XC8\ledblink.X\src/main.c
+"6 C:\Users\Krishna\led-xc8\GPIO-on-off-xc8\PIC12f629 led blink XC8\ledblink.X\src/main.c
 [v _main main `(v  1 e 0 0 ]
 {
 "24

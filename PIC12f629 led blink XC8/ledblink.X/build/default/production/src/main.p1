@@ -590,9 +590,9 @@ Version 3.2 HI-TECH Software Intermediate Code
 [; ;main.c: 14: GPIO4 = 0;
 "14
 [e = _GPIO4 -> -> 0 `i `b ]
-[; ;main.c: 15: _delay((unsigned long)((500)*(4000000/4000.0)));
+[; ;main.c: 15: _delay((unsigned long)((1000)*(4000000/4000.0)));
 "15
-[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 4000000 `l `d .4000.0 `ul ]
 [; ;main.c: 16: while(1)
 "16
 [e :U 72 ]

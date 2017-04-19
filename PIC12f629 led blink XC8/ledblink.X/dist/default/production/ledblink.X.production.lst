@@ -1,7 +1,7 @@
 
 
 Microchip Technology PIC LITE Macro Assembler V1.34 build -361300703 
-                                                                                               Fri Mar 10 23:28:23 2017
+                                                                                               Wed Apr 19 12:25:59 2017
 
 Microchip Technology Omniscient Code Generator (Lite mode) build 201502162209
      1                           	processor	12F629
@@ -133,12 +133,12 @@ Microchip Technology Omniscient Code Generator (Lite mode) build 201502162209
    127  03CE  1283               	bcf	3,5	;RP0=0, select bank0
    128  03CF  1205               	bcf	5,4	;volatile
    129                           
-   130                           ;main.c: 15: _delay((unsigned long)((500)*(4000000/4000.0)));
-   131  03D0  3003               	movlw	3
+   130                           ;main.c: 15: _delay((unsigned long)((1000)*(4000000/4000.0)));
+   131  03D0  3006               	movlw	6
    132  03D1  00A2               	movwf	??_main+2
-   133  03D2  308A               	movlw	138
+   133  03D2  3013               	movlw	19
    134  03D3  00A1               	movwf	??_main+1
-   135  03D4  3056               	movlw	86
+   135  03D4  30B1               	movlw	177
    136  03D5  00A0               	movwf	??_main
    137  03D6                     u37:	
    138  03D6  0BA0               	decfsz	??_main,f
@@ -296,7 +296,7 @@ DATA                 0      0       0       6        0.0%
 
 
 Microchip Technology PIC Macro Assembler V1.34 build -361300703 
-Symbol Table                                                                                   Fri Mar 10 23:28:23 2017
+Symbol Table                                                                                   Wed Apr 19 12:25:59 2017
 
             __CFG_CP$OFF 0000                       u17 03B9                       u27 03C7  
                      u37 03D6                       u47 03E4                       u57 03F3  
