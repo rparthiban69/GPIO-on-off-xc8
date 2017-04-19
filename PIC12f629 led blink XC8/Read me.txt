@@ -1,0 +1,6 @@
+*** LED Blink XC8 ***
+
+Internal Osc
+MCLR OFF
+Internal crystal 4MHZ
+
